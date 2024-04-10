@@ -1,5 +1,6 @@
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
+
 #ifndef __STDC_CONSTANT_MACROS
 #define __STDC_CONSTANT_MACROS
 #endif
@@ -9,6 +10,7 @@ extern "C"
 #include "libavutil/avutil.h"
 }
 #endif
+
 #include <QMainWindow>
 #include <QDebug>
 QT_BEGIN_NAMESPACE
