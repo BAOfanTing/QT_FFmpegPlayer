@@ -17,6 +17,7 @@ SOURCES += \
 HEADERS += \
     demuxthread.h \
     mainwindow.h \
+    queue.h \
     thread.h
 
 FORMS += \
